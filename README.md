@@ -101,4 +101,4 @@ Role + Task + Context + Format + Constraints
 - AI agents  
 - Automation systems  
 - Prompt marketplaces  
-- No-code AI tools  
+- No-code AI tools
