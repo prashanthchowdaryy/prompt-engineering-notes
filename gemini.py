@@ -1,7 +1,6 @@
 # -----------------------------------------
 # GEMINI RAG APP (STREAMLIT)
 # -----------------------------------------
-
 import streamlit as st
 import google.generativeai as genai
 
